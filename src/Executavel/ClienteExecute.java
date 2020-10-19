@@ -1,7 +1,7 @@
-package Adm.Executavel;
+package Executavel;
 
-import Adm.Conexao.ClienteConexao;
-import Adm.Mensageiro.MensageiroCliente;
+import Conexao.ClienteConexao;
+import Mensageiro.MensageiroCliente;
 
 
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Adm.Conexao;
+package Conexao;
 
 import java.io.IOException;
 import java.net.InetAddress;

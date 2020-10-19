@@ -1,4 +1,4 @@
-package Adm.Mensageiro;
+package Mensageiro;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

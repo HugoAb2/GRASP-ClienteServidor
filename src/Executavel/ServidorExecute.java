@@ -1,7 +1,7 @@
-package Adm.Executavel;
+package Executavel;
 
-import Adm.Conexao.ServidorConexao;
-import Adm.Mensageiro.MensageiroServidor;
+import Conexao.ServidorConexao;
+import Mensageiro.MensageiroServidor;
 
 import java.net.ServerSocket;
 import java.net.Socket;
